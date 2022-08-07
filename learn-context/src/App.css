@@ -1,0 +1,21 @@
+.App {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.changeTheme {
+    height: 32px;
+    line-height: 32px;
+    width: 160px;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 48px;
+}
+.phoneName {
+    height: 32px;
+    line-height: 32px;
+    width: 200px;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 32px;
+}
